@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/1-project/erp-24-05-07-13/erp-1/"}
+---
+
+# 오전
+---
+1. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/ERP교육환경세팅\|ERP교육환경세팅]]
+2. Unit1_Overview of supply chain planning
+	1. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/Lesson1 - Outlining Supply Chain Planning at a glance\|Lesson1 - Outlining Supply Chain Planning at a glance]]
+3. Unit2_Prerequisites for Production Planning in SAP S/4HANA
+	1. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/Lesson1 - Outlining general master data\|Lesson1 - Outlining general master data]]
+	2. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/Lesson2 - Outlining Master Data for Production Planning\|Lesson2 - Outlining Master Data for Production Planning]]
+	
+# 오후
+---
+1. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/마스터 관련 설명\|마스터 관련 설명]]
+2. Unit 3. Demand planning
+	1. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/Lesson1 - Understannding principles and tools for demand planning\|Lesson1 - Understannding principles and tools for demand planning]]
+3. Unit 4. Demand Management in SAP
+4.  [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/BOM 조회 관련\|BOM 조회 관련]]
+5. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/자재마스터뷰mm03 상세 설명\|자재마스터뷰mm03 상세 설명]]
+6. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/Routing 설명\|Routing 설명]]
+7. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/SAP 테이블\|SAP 테이블]]
+8. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/SAP Query 사용법\|SAP Query 사용법]]
+9. [[1. Project/ERP교육(24.05.07~13)/1일차 하위문서/생산계획수립 Transaction(MF50)\|생산계획수립 Transaction(MF50)]]
+10. 자재마스터 생성
+	- MM01에서 Master 생성 (아래 4개 생성함.)
+		- JYP113
+		- JYPR113
+		- JYPS113
+		- JYPS213
+11. BOM 생성
