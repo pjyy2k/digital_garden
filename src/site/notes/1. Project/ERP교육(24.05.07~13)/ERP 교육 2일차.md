@@ -67,4 +67,4 @@ VA03에서 Sales order 생성
 1. MRP3에서 strategy group 부분을 20으로 변경
 	![Pasted image 20240508140143.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508140143.png)
 	 ![Pasted image 20240508140258.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508140258.png)
-2. 
+2. VA01에서 Sales order 생성
