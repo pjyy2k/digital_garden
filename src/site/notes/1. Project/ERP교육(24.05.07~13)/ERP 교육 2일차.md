@@ -5,6 +5,7 @@
 ## MRP (Material Resource planning)
 
 ### MRP 기초
+---
 - Transaciton : **md04**
 	현재 재고를 차감하면서 앞으로의 계획이 어떻게 흘러가는지 알 수 있음.
 
@@ -18,6 +19,7 @@
 - [[Excalidraw/Drawing 2024-05-08 09.42.15.excalidraw#^Ums9FB-aDBrbNbmYdrExx\|MRP 흐름예시]]
 
 ### Planning 실습
+---
 
 T-code : MF50
 ![Pasted image 20240508101311.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508101311.png)
@@ -31,6 +33,7 @@ T-code : MF50
 		- 결품되지 않도록 봐야 함. 일정 변경해서 들어와야 한다는 뜻.
 
 ### mrp 실행 실습
+---
 	T-code : MD04에서 
 	![Pasted image 20240508103321.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508103321.png)
 	MD04에서 MRP element 더블클릭해서
@@ -40,16 +43,19 @@ T-code : MF50
 
 
 ### Sales Order 관련 실습
+---
 VA03에서 Sales order 생성
 	![Pasted image 20240508111638.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508111638.png)
 ![Pasted image 20240508124035.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508124035.png)
 
 ### Make to order production 이론 수업
+---
 ![IMG_3145.jpeg](/img/user/IMG_3145.jpeg)
 
 
 
 ### 시나리오 실습
+---
 - MRP master setting 화면, 
 ![Pasted image 20240508130112.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508130112.png)
 	- material master mrp3 view
@@ -61,8 +67,15 @@ VA03에서 Sales order 생성
 	![Pasted image 20240508130834.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508130834.png)
 	중간에 오더가 추가로 들어오니 리스케줄 제안 들어옴.
 		
+
 ### 메뉴트리 실습
+---
+특이사항 없음
+
 ### 이후 교과서대로 반복 실습 수행
+---
+특이사항 없음
+
 ### 생산전략 변경 실습
 1. MRP3에서 strategy group 부분을 20으로 변경
 	![Pasted image 20240508140143.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508140143.png)
@@ -78,10 +91,16 @@ VA03에서 Sales order 생성
 	![Pasted image 20240508141439.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508141439.png)
 3. MD02 다시 돌려서 계획 조정해주면 planned order 삭제 됨. (Rescheduling)
 	
+
 ### pMRP 실습
+---
 1. md61에서 planning table 입력
 #### fiori에서 job 생성 실습
 	![Pasted image 20240508151332.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508151332.png)
 	![Pasted image 20240508151351.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508151351.png)![Pasted image 20240508151449.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508151449.png)
 	여기서 MRP Contoller에 013 넣어야 하는데 잘못 넣음. 
 	![Pasted image 20240508151636.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Attached%20files/Pasted%20image%2020240508151636.png)
+
+### Unit 5 Lesson2 이론 설명
+---
+
