@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-project/erp-24-05-07-13/erp-2/"}
+{"dg-publish":true,"permalink":"/1-project/erp-24-05-07-13/erp-2/","tags":["gardenEntry"]}
 ---
 
 # 오전
@@ -58,4 +58,3 @@
 		중간에 오더가 추가로 들어오니 리스케줄 제안 들어옴.
 		
 		  
-/diti
