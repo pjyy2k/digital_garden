@@ -68,3 +68,6 @@ VA03에서 Sales order 생성
 	![Pasted image 20240508140143.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508140143.png)
 	 ![Pasted image 20240508140258.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508140258.png)
 2. VA01에서 Sales order 생성
+3. MD04에서 확인하면, Customer stock 이 생겼음.
+	![Pasted image 20240508140838.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508140838.png)
+	
