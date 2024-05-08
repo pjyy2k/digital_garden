@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-project/erp-24-05-07-13/erp-2/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-project/erp-24-05-07-13/erp-2/"}
 ---
 
 # 오전
