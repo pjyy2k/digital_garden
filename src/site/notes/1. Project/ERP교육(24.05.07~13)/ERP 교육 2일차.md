@@ -80,3 +80,8 @@ VA03에서 Sales order 생성
 	
 ### pMRP 실습
 1. md61에서 planning table 입력
+#### fiori에서 job 생성 실습
+	![Pasted image 20240508151332.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508151332.png)
+	![Pasted image 20240508151351.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508151351.png)![Pasted image 20240508151449.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508151449.png)
+	여기서 MRP Contoller에 013 넣어야 하는데 잘못 넣음. 
+	![Pasted image 20240508151636.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508151636.png)
