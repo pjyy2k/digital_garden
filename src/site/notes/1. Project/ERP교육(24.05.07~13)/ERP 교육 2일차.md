@@ -78,4 +78,5 @@ VA03에서 Sales order 생성
 	![Pasted image 20240508141439.png](/img/user/1.%20Project/ERP%EA%B5%90%EC%9C%A1(24.05.07~13)/Pasted%20image%2020240508141439.png)
 3. MD02 다시 돌려서 계획 조정해주면 planned order 삭제 됨. (Rescheduling)
 	
-	
+### pMRP 실습
+1. md61에서 planning table 입력
