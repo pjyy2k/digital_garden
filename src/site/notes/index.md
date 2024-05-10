@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
+>[!note]
+제멋대로 정리한 노트 중 그나마 괜찮은 것을 공유하는
+JYP의 Digital garden
+
 
 # ERP 교육노트
 - [[1. Project/ERP교육(24.05.07~13)/0100. ERP 교육 1일차\|1일차 강의노트]]
